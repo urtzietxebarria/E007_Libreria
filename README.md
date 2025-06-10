@@ -34,6 +34,8 @@ Proyecto web para una libreria que permite mostrar información básica sobre lo
 4. Desplegar el proyecto en un servidor local (Tomcat u otro compatible).
 5. Abrir el navegador y acceder a la aplicación web.
 
+## Autor
+Urtzi Etxebarria Arranz
 ---
 
 ¡Gracias por revisar el proyecto!  
