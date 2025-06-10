@@ -35,7 +35,9 @@ Proyecto web para una libreria que permite mostrar información básica sobre lo
 5. Abrir el navegador y acceder a la aplicación web.
 
 ## Autor
+
 Urtzi Etxebarria Arranz
+
 ---
 
 ¡Gracias por revisar el proyecto!  
